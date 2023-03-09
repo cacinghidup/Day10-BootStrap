@@ -32,8 +32,8 @@ function getData(){
         message
     }
     
-    // let url = location.origin
+    let url = location.origin
 
-    location.href = "https://real-fight.vercel.app/contact-me.html";
+    location.href = url + "/contact-me.html";
 
 }
