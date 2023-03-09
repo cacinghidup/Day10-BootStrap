@@ -32,6 +32,8 @@ function getData(){
         message
     }
     
-    // console.log(data)
+    let url = location.origin
+
+    location.href = url;
 
 }
