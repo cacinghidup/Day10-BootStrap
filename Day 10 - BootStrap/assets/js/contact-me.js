@@ -24,13 +24,15 @@ function getData(){
     
     a.click()
 
-    let data = {
-        nama,
-        email,
-        phoneNumber,
-        subject,
-        message
-    }
+    // let data = {
+    //     nama,
+    //     email,
+    //     phoneNumber,
+    //     subject,
+    //     message
+    // }
+
+    // console.log(data)
     
     let url = location.origin
 
